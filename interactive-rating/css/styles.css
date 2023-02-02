@@ -1,0 +1,206 @@
+:root {
+    --primary-orange: hsl(25, 97%, 53%);
+    --n-white: hsl(0, 0%, 100%);
+    --n-light-grey: hsl(217, 12%, 63%);
+    --n-medium-grey: hsl(216, 12%, 54%);
+    --n-dark-blue: hsl(213, 19%, 18%);
+    --n-very-dark-blue: hsl(216, 12%, 8%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Overpass', sans-serif;
+    color: white;
+}
+
+.hide-card{
+    display: none !important;
+}
+
+.rating-element--active {
+    color: var(--n-white) !important;
+    background-color: var(--primary-orange) !important;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-size: 1.5rem;
+    background-color: var(--n-very-dark-blue);
+}
+
+main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-card, .thanks-card {
+    width: 100%;
+    height: 100%;
+    max-width: 327px;
+    max-height: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 25px;
+    border-radius: 15px;
+    /* background-color: #171e28; */
+    background: linear-gradient(to bottom, #222933 10%, #171e28 80%);
+}
+
+.main-card__star-icon {
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-self: flex-start;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: var(--n-dark-blue);
+}
+
+.main-card__star-icon img {
+    width: 13px;
+    height: 13px;
+}
+
+.main-card__title, .thanks-card__title {
+    width: 100%;
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: var(--n-white);
+}
+
+.main-card__text, .thanks-card__text {
+    width: 100%;
+    font-size: 1.4rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--n-light-grey);
+}
+
+.main-card__rating {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0 5px;
+}
+
+.rating-element {
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 700;
+    font-family: 'Overpass', sans-serif;
+    color: var(--n-medium-grey);
+    border-radius: 50%;
+    background-color: var(--n-dark-blue);
+}
+
+.rating-element:hover {
+    cursor: pointer;
+    color: var(--n-white);
+    background-color: var(--n-light-grey);
+}
+
+.main-card__btn-submit {
+    width: 100%;
+    height: 45px;
+    display: block;
+    outline: none;
+    border: none;
+    color: var(--n-white);
+    text-transform: uppercase;
+    font-family: 'Overpass', sans-serif;
+    letter-spacing: 3px;
+    border-radius: 50px;
+    background-color: #fc7613;
+}
+
+.main-card__btn-submit:hover {
+    background-color: var(--n-white);
+    color: var(--primary-orange);
+    cursor: pointer;
+}
+
+.thanks-card {
+    align-items: center;
+    text-align: center;
+}
+
+.thanks-card__img {
+    width: 145px;
+}
+
+.thanks-card__select {
+    padding: 8px 12px;
+    font-size: 1.4rem;
+    font-weight: 300;
+    color: #df874c;
+    border-radius: 20px;
+    background-color: var(--n-dark-blue);
+}
+
+@media (min-width: 1440px) {
+    .main-card, .thanks-card {
+        max-width: 410px;
+        max-height: 410px;
+        border-radius: 30px;
+        padding: 30px 35px;
+    }
+
+    .main-card__star-icon {
+        width: 50px;
+        height: 50px;
+    }
+
+    .main-card__star-icon img {
+        width: 16px;
+        height: 16px;
+    }
+
+    .main-card__title, .thanks-card__title {
+        font-size: 2.7rem;
+    }
+
+    .main-card__text, .thanks-card__text {
+        font-size: 1.5rem;
+    }
+
+    .rating-element {
+        width: 50px;
+        height: 50px;
+        font-size: 1.7rem;
+    }
+
+    .thanks-card__img {
+        width: 165px;
+    }
+
+    .thanks-card  {
+        padding: 50px 35px;
+    }
+
+    .thanks-card__select {
+        font-size: 1.5rem;
+    }
+}

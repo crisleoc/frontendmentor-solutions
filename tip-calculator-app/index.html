@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Splitter</title>
+    <link rel="shortcut icon" href="./images/favicon-32x32.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" media="(min-width: 800px)" href="./css/desktop.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <img src="./images/logo.svg" alt="" srcset="">
+    </header>
+    <main>
+        <section class="inputs-section">
+            <div class="bill-container">
+                <span>Bill</span>
+                <label class="input-container">
+                    <img src="./images/icon-dollar.svg" alt="icon-dollar" title="icon-dollar">
+                    <input type="number" name="bill" id="bill-input">
+                </label>
+            </div>
+            <div class="select-container">
+                <span>Select Tip %</span>
+                <div class="btn-container">
+                    <button class="btn-tip" type="submit">5%</button>
+                    <button class="btn-tip" type="submit">10%</button>
+                    <button class="btn-tip" type="submit">15%</button>
+                    <button class="btn-tip" type="submit">25%</button>
+                    <button class="btn-tip" type="submit">50%</button>
+                    <input type="number" placeholder="Custom" id="input-custom">
+                </div>
+            </div>
+            <div class="number-container">
+                <div id="text-container-error">
+                    <span>Number of People</span>
+                    <span style="display:none" id="error-cero">Can't be zero</span>
+                </div>
+                <label class="input-container number-input-container">
+                    <img src="./images/icon-person.svg" alt="icon-person" title="icon-person">
+                    <input type="number" name="user-number" id="user-number">
+                </label>
+            </div>
+        </section>
+
+        <section class="outputs-section">
+            <div class="outputs-container">
+                <div class="output">
+                    <div class="text">
+                        <span>Tip Amount</span>
+                        <span>/ person</span>
+                    </div>
+                    <span class="output-value" id="tip-span">
+                        $0.00
+                    </span>
+                </div>
+                <div class="output">
+                    <div class="text">
+                        <span>Total</span>
+                        <span>/ person</span>
+                    </div>
+                    <span class="output-value" id="total-span">
+                        $0.00
+                    </span>
+                </div>
+            </div>
+            <div class="reset-container">
+                <button type="submit" class="btn-reset" id="reset-btn">
+                    RESET
+                </button>
+            </div>
+        </section>
+    </main>
+    <script src="./js/main.js" type="module"></script>
+</body>
+
+</html>
