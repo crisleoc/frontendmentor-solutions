@@ -1,6 +1,6 @@
 # Frontend Mentor - Chat app CSS illustration solution
 
-This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -10,8 +10,8 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/Crisleoco2004/chat-app-css)
-- Live Site URL: [GH Pages](https://crisleoco2004.github.io/chat-app-css/)
+- Solution URL: [FrontedMentor](https://www.frontendmentor.io/solutions/mobile-first-using-bem-sass-gulp-and-pug-zVWoZ9N6H)
+- Live Site URL: [GH Pages](https://crisleoc.github.io/frontendmentor-solutions/chat-app-css-illustration/)
 
 ## My process
 
@@ -29,6 +29,6 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
 
 ## Author
 
-- [Website](https://crisleoco2004.github.io/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Crisleoco2004)
+- [Website](https://crisleoc.github.io/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/crisleoc)
 - [Twitter](https://www.twitter.com/crisleooc)

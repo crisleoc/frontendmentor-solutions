@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/crisleoc/rating-card/)
-- [Live Site URL](https://crisleoc.github.io/rating-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-uIyWcTGUhT)
+- [Live Site URL](https://crisleoc.github.io/frontendmentor-solutions/interactive-rating/)
 
 ## My process
 

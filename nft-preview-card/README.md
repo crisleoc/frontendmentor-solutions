@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/nft-preview-card)
-- [Live site URL](https://crisleoc.github.io/nft-preview-card)
+- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-CV1Y5TfuPB)
+- [Live site URL](https://github.com/crisleoc/frontendmentor-solutions/tree/main/nft-preview-card)
 
 ## My process
 

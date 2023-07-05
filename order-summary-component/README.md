@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-solution-ILhe_cpu7w)
+- [Live site URL](https://crisleoc.github.io/frontendmentor-solutions/order-summary-component/)
 
 ## My process
 

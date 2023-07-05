@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/crisleoc/product-card/)
-- [Live Site URL](https://crisleoc.github.io/product-card/)
+- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-e0C51UkMRj)
+- [Live Site URL](https://crisleoc.github.io/frontendmentor-solutions/product-preview-card/)
 
 ## My process
 

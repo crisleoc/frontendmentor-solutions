@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/crisleoc/huddle-page)
-- Live Site URL: [Live Site](https://crisleoc.github.io/huddle-page)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-y7FlqbnSas)
+- Live Site URL: [Live Site](https://crisleoc.github.io/frontendmentor-solutions/huddle-landing/)
 
 ## My process
 

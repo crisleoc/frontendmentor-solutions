@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL:](https://www.frontendmentor.io/solutions/fylo-dark-with-grid-flexbox-and-bem-j3szE621E)
-- [Live Site URL:](https://crisleoco2004.github.io/fylo-dark-landing-page/)
+- [Live Site URL:](https://crisleoc.github.io/frontendmentor-solutions/fylo-dark-theme-landing-page/)
 
 ## My process
 
@@ -51,6 +51,6 @@ With the following challenge i could practice more about semantic html5, CSS (Fl
 
 ## Author
 
-- [Website](https://crisleoco2004.github.io/)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/Crisleoco2004)
+- [Website](https://crisleoc.github.io/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/crisleoc)
 - [Twitter](https://www.twitter.com/crisleooc)

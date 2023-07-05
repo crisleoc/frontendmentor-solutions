@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/crisleoc/tip-calculator-app)
-- Live Site URL: [Add live site URL here](https://crisleoc.github.io/tip-calculator-app/)
+- Solution URL: [FrontedMentor](https://www.frontendmentor.io/solutions/tip-calculator-app-challenge-sIjEBMgpAn)
+- Live Site URL: [GH Pages](https://crisleoc.github.io/frontendmentor-solutions/tip-calculator-app/)
 
 ## My process
 
