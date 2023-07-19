@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor](https://your-solution-url.com)
-- Live Site URL: [GH Pages](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/age-calculator-app-solution-Bppy8vvxd2)
+- Live Site URL: [GH Pages](https://crisleoc.github.io/frontendmentor-solutions/age-calculator-app/)
 
 ## My process
 
