@@ -13,7 +13,7 @@ class Button {
 
     defaultButton() {
         this.default = true;
-        this.img.src = "../assets/images/icon-arrow.svg";
+        this.img.src = "./assets/images/icon-arrow.svg";
         this.img.alt = "Submit";
         this.button.innerHTML = "";
         this.buildButton();
@@ -21,7 +21,7 @@ class Button {
 
     resetButton() {
         this.default = false;
-        this.img.src = "../assets/images/reset.png";
+        this.img.src = "./assets/images/reset.png";
         this.img.alt = "Reset";
         this.button.innerHTML = "";
         this.buildButton();
